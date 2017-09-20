@@ -8,7 +8,7 @@
 body {
     background-image: url("http://my.ss.sysu.edu.cn/wiki/download/attachments/7045968/background.png?version=1&modificationDate=1268896312000");
     font-size: 8pt;
-    font-family: Verdana;
+    font-family: Tahoma;
 }
 
 div.banner {
@@ -88,6 +88,7 @@ p.comment img {
 
 p.name {
     font-style: italic;
+    margin-bottom: 40px;
 }
 
 div.right {
